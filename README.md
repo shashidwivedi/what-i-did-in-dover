@@ -16,3 +16,9 @@ A description of things to master for becoming a web developer
 
 ## Responsive Websites
 
+## Deploy Projects
+1. Basic Homepage
+2. Forms
+3. Portfolio
+
+
