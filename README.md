@@ -1,7 +1,5 @@
 # full-path-web-dev
 
-A description of things to master for becoming a web developer
-
 ## Essential Tools
 1. VSCode
 2. ESLint
