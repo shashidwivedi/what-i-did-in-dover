@@ -23,7 +23,7 @@
 
 ## React
 
-## Gatsby
+## TypeScript
 
 
 
