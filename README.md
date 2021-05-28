@@ -14,6 +14,8 @@
 
 ## Responsive Websites
 
+## Tailwind
+
 ## Deploy Projects
 1. Basic Homepage
 2. Forms
