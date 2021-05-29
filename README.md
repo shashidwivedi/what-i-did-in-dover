@@ -8,6 +8,8 @@
 5. Command Line
 6. Figma
 
+## Wireframes
+
 ## HTML - Forms
 
 ## CSS - Box Model - CSS units - Position - Variables - Media Queries - Animations
