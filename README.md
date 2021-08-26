@@ -1,33 +1,11 @@
-# full-path-web-dev
+Things you did till now:
 
-## Essential Tools
-1. VSCode
-2. ESLint
-3. Prettier
-4. Git
-5. Command Line
-6. Figma
-
-## Wireframes
-
-## HTML - Forms
-
-## CSS - Box Model - CSS units - Position - Variables - Media Queries - Animations
-
-## Responsive Websites
-
-## Tailwind
-
-## Deploy Projects
-1. Basic Homepage
-2. Forms
-3. Portfolio
-
-## JavaScript
-
-## React
-
-## TypeScript
-
-
-
+1. Implemented a table
+2. Created a mega menu in header
+3. Created a footer
+4. Created a hero component
+5. Implemented a custom scroll
+6. Helped in implementing algolia search
+7. Designing layouts for different web components
+8. Implemented accordion for FAQs
+9. Created modals for images and videos
