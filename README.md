@@ -1,4 +1,4 @@
-Things you did till now:
+Things I have done so far:
 
 1. Implemented a table UI with two levels of modals
 2. Created a mega menu in header
