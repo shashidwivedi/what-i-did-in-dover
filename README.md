@@ -11,3 +11,4 @@ Things I have done so far:
 * Designing layouts for different web components
 * Implemented accordion for FAQs
 * Created modals for images and videos
+* Created tabs component for different set of views
