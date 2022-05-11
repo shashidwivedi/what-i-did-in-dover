@@ -12,3 +12,5 @@ Things I have done so far:
 * Implemented accordion for FAQs
 * Created modals for images and videos
 * Created tabs component for different set of views
+* Wrote components using Google maps API like distributor finder and destaco locations
+* Helped in writing analytics code for appEventData (searchClick, nullSearch, resultsClick, etc.)
